@@ -1,0 +1,27 @@
+[
+    {
+		"registration_number_from": "1",
+        "registration_number_to": "2",
+		"type":"friend"
+	},
+	{
+		"registration_number_from": "2",
+        "registration_number_to": "3",
+		"type":"friend"
+	},
+	{
+		"registration_number_from": "4",
+        "registration_number_to": "5",
+		"type":"friend"
+	},
+	{
+		"registration_number_from": "3",
+        "registration_number_to": "3",
+		"type":"done"
+	},
+    {
+        "registration_number_from": "5",
+        "registration_number_to": "3",
+		"type":"done"
+    }
+]

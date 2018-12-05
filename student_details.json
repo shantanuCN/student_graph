@@ -1,0 +1,37 @@
+[
+    {
+		"name": "jack",
+		"age": 22,
+		"registration_number": "1",
+        "type":"student"
+	},
+	{
+		"name": "harry",
+		"age": 22,
+		"registration_number": "2",
+        "type":"student"
+	},
+	{
+		"name": "james",
+		"age": 22,
+		"registration_number": "3",
+        "type":"student"
+	},
+	{
+		"name": "mike",
+		"age": 22,
+		"registration_number": "4",
+        "type":"student"
+	},
+	{
+		"name": "lisa",
+		"age": 22,
+		"registration_number": "5",
+        "type":"student"
+	},
+    {
+		"assignment_name": "python",
+		"assignment_number": "3",
+        "type":"assignment"
+	}
+]
